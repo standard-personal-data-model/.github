@@ -1,4 +1,3 @@
- 👋
 This project will develop a person-centric data model suitable for standardization by a Standards Developing Organization (SDO). 
 <!--
 
