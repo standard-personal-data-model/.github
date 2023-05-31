@@ -1,5 +1,5 @@
 ## This is readme file 👋
-
+This project will develop a person-centric data model suitable for standardization by a Standards Developing Organization (SDO). 
 <!--
 
 **Here are some ideas to get you started:**
