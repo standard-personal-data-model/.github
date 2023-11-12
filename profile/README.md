@@ -1,4 +1,4 @@
-This project will develop a person-centric data model suitable for standardization by a Standards Developing Organization (SDO). 
+This project is developing a person-centric data model suitable for standardization by a Standards Developing Organization (SDO). 
 
 This work may soon be sponsored as a Thematic Group of MyData Global (mydata.org).  See draft proposed charter at  bit.ly/3nKOGwz.
 
