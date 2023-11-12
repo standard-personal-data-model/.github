@@ -4,7 +4,9 @@ This work may soon be sponsored as a Thematic Group of MyData Global (mydata.org
 
 This open source project came from the MyData.org Slack channel at: mydataglobal.slack.com (need to join MyData first) #standard-personal-data-model, which developed a technical paper posted at https://docs.google.com/document/d/1PSEtsaTvhgvnU2vyC2zqPKgZmk7LfwMFe1B5y6e4yqY/edit
 
-A pilot is the planning that will provide requirements for an SPDM. 
+A pilot is in the planning that will provide requirements for this SPDM plus early implementations of some of the components of this ecosystem.  
+
+This project welcomes all proposed versions of an SPDM, or forking of those posted here (per license of each).  A separate repo is set up for each.  At this time, the PDM-Glossary is posted and in development.  MyData Dictionary at https://dictionary.mydata.org/ is also invited to create a repo.    
 <!--
 
 **Here are some ideas to get you started:**
